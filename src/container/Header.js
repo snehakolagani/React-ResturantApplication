@@ -2,7 +2,7 @@ import React, { useContext } from 'react'
 import { Link } from 'react-router-dom'
 
 
-const Header = ({order,cardItem}) => {
+const Header = ({order}) => {
  
   return (
     <div>

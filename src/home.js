@@ -5,17 +5,17 @@ import Filter from './container/Filter';
 import Card from './container/Card';
 const store = createContext();
 
-const Home = () => {
-  const [order,setOrder]= useState(0);
-  const [cardItem,setCardItem] = useState([]);
+const Home = ({cardItem, myOrders,order}) => {
+  // const [order,setOrder]= useState(0);
+ 
   const isTableSelected =true;
-  const myOrders=(item)=>{
+  // const myOrders=(item)=>{
    
-    setOrder(order+1);
-    setCardItem(()=>
-      [...cardItem,item]);
-   // console.log("carditemssssssss",cardItem)
-  }
+  //   setOrder(order+1);
+  //   // setCardItem(()=>
+  //   //   [...cardItem,item]);
+  //  // console.log("carditemssssssss",cardItem)
+  // }
 
   return (
     <center>
