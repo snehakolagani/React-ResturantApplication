@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+body{
+  font-family: tahoma;
+}
+img {
+  width: 200px;
+  height: 150px;
+  /* height will be auto-adjusted */
+}

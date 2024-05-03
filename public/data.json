@@ -1,0 +1,72 @@
+{"items":[
+{
+"category":"Pizza",
+"id":"1",
+"name":"American dessy pizza",
+"price":"300",
+"url":"https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2020-02-Easy-Cheesy-Hot-Pizza-Dip%2FPizza-Dip_046"
+},
+{
+"category":"Rice items",
+"id":"2",
+"name":"veg biryani",
+"price":"300",
+"url":"https://www.indianhealthyrecipes.com/wp-content/uploads/2020/02/instant-pot-egg-biryani-500x500.jpg"
+},
+{
+"category":"Rice items",
+"id":"3",
+"name":"Chiken biryani",
+"price":"300",
+"url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3I0XELpt_wWLMTzNbyx2IR-mCZOnyiPaHhSkMvVE1PA&s"
+},
+{
+"category":"Pizza",
+"id":"4",
+"name":"American dessy pizza",
+"price":"300",
+"url":"https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2020-02-Easy-Cheesy-Hot-Pizza-Dip%2FPizza-Dip_046"
+},
+{
+"category":"Pizza",
+"id":"5",
+"name":"chessy pizza",
+"price":"400",
+"url":"https://static.toiimg.com/photo/53110049.cms"
+},
+{
+"category":"Pizza",
+"id":"6",
+"name":"mushroom pizza",
+"price":"300",
+"url":"https://www.allrecipes.com/thmb/3qkooqf4vsQ3DjzjIZy0s6ZSwC0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/36107allies-mushroom-pizzafabeveryday4x3-005f809371b147378094d60f28daf212.jpg"
+},
+{
+"category":"Cool Drinks",
+"id":"7",
+"name":"Pepsi",
+"price":"100",
+"url":"https://m.media-amazon.com/images/I/718J+FBx2WL.jpg"
+},
+{
+"category":"Cool Drinks",
+"id":"8",
+"name":"lemon juice",
+"price":"90",
+"url":"https://4.imimg.com/data4/HR/VP/MY-30165244/lemon-juice.jpg"
+},
+{
+"category":"Hot Drinks",
+"id":"9",
+"name":" Black Coffee",
+"price":"50",
+"url":"https://media.licdn.com/dms/image/C4E12AQG8_Do1Iam3bA/article-cover_image-shrink_600_2000/0/1638280617625?e=2147483647&v=beta&t=SPO0JrXvGYoQ-aEzugk7ZnESjxx7AhTjDq5mMbnj-_g"
+},
+{
+"category":"Hot Drinks",
+"id":"10",
+"name":"Capachno",
+"price":"200",
+"url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtXnFAPAGdVIIyqzkHHoKXTqle-clh5oS5UccYUl_LTA&s"
+}
+]}
